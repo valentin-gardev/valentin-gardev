@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=&color=293CDF&text=---%20Loading%20Valentin%20---&fontAlign=50&animation=twinkling&stroke=FFFFFF&fontSize=70&fontAlignY=32)]
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=&color=293CDF&text=---%20Loading%20Valentin%20---&fontAlign=50&animation=twinkling&stroke=FFFFFF&fontSize=70&fontAlignY=32)
 <h1 align="center">Hello 👋, I'm Valentin!</h1>
 <h3 align="center">I am a newly staring back end developer with a lot of passion for learning and writing code with a goal of becoming a Full Stack Developer one day!</h3>
 
