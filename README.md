@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=&color=293CDF&text=---%20Loading%20Valentin%20---&fontAlign=50&animation=twinkling&stroke=FFFFFF&fontSize=70&fontAlignY=32)
 <h1 align="center">Hello 👋, I'm Valentin!</h1>
-<h3 align="center">I am a newly staring back end developer with a lot of passion for learning and writing code with a goal of becoming a Full Stack Developer one day!</h3>
+<h3 align="center">I am a newly staring backend and Automated tester developer with a lot of passion for learning and writing code and testing!</h3>
 
 - 🔭 I’m currently working on a project that makes a [phonebook database using Python and MySQL](https://github.com/valentin-gardev/Projects_Python/tree/main/Phonebook_Personal_User)
 
-- 🌱 I’m currently learning **Python, MySQL, JavaScript**
+- 🌱 I’m currently learning **Python, MySQL, JavaScript, WebDriverIO**
 
 - 👨‍💻 All of my projects are available at my github: [https://github.com/valentin-gardev/Projects_Python](https://github.com/valentin-gardev/Projects_Python)
 
@@ -17,4 +17,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=&color=293CDF&fontAlign=50&animation=twinkling&stroke=FFFFFF&fontSize=70&fontAlignY=32&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=293CDF&fontAlign=50&animation=twinkling&stroke=FFFFFF&fontSize=70&fontAlignY=32&section=footer)
